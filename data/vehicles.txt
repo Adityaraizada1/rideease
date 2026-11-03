@@ -1,0 +1,4 @@
+Car|C101|Maruti Swift|1800.00|5|0|1
+Car|C102|Hyundai i20|2200.00|5|1|1
+Bike|B101|Honda Activa 6G|700.00|110|1|1
+Bike|B102|Royal Enfield Classic 350|1200.00|350|0|1

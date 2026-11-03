@@ -1,0 +1,16 @@
+# Build artifacts
+rideease
+*.o
+*.out
+
+# macOS metadata
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor configs
+.vscode/
+.idea/
